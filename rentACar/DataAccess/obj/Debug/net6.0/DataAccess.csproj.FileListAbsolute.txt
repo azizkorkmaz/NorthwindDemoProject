@@ -1,0 +1,15 @@
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

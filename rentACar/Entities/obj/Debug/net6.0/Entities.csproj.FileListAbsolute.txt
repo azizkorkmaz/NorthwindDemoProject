@@ -1,0 +1,12 @@
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\bin\Debug\net6.0\Entities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\ref\Entities.dll
