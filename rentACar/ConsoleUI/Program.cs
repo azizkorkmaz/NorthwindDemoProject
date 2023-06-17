@@ -11,13 +11,30 @@ internal class Program
     {
         //ProductTest();
 
+        //CategortTest();
+
+        ProductDetailTest();
+
+    }
+
+    private static void ProductDetailTest()
+    {
+        ProductManager productManager = new ProductManager(new EfProductDal());
+
+        foreach (var product in productManager.GetProductDetails())
+        {
+            Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+        }
+    }
+
+    private static void CategortTest()
+    {
         CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
 
         foreach (var category in categoryManager.GetAll())
         {
             Console.WriteLine(category.CategoryName);
         }
-
     }
 
     private static void ProductTest()
