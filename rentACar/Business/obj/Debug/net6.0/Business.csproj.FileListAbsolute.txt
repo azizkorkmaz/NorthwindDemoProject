@@ -15,3 +15,5 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\obj\Debug\ne
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\obj\Debug\net6.0\refint\Business.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\obj\Debug\net6.0\Business.pdb
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\obj\Debug\net6.0\ref\Business.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\bin\Debug\net6.0\Core.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Business\bin\Debug\net6.0\Core.pdb

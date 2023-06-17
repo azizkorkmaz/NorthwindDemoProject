@@ -1047,9 +1047,25 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -3226,6 +3242,11 @@
         "version.txt"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -3234,6 +3255,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Core >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5"
     ]
@@ -3270,6 +3292,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Toplam Depo\\Çalışmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Core.csproj": {
+              "projectPath": "D:\\Toplam Depo\\Çalışmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Core.csproj"
+            },
             "D:\\Toplam Depo\\Çalışmalar\\CSharp_Kamp\\rentACar\\rentACar\\Entities\\Entities.csproj": {
               "projectPath": "D:\\Toplam Depo\\Çalışmalar\\CSharp_Kamp\\rentACar\\rentACar\\Entities\\Entities.csproj"
             }

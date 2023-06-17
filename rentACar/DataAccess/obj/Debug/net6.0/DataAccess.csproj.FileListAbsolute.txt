@@ -13,3 +13,5 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\Core.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\DataAccess\bin\Debug\net6.0\Core.pdb

@@ -10,3 +10,6 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\ne
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\refint\Entities.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.pdb
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\bin\Debug\net6.0\Core.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\bin\Debug\net6.0\Core.pdb
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
