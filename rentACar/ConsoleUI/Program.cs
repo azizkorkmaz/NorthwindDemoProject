@@ -21,10 +21,20 @@ internal class Program
     {
         ProductManager productManager = new ProductManager(new EfProductDal());
 
-        foreach (var product in productManager.GetProductDetails())
+        var result = productManager.GetProductDetails();
+
+        if (result.Success == true)
         {
-            Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+            }
         }
+        else
+        {
+            Console.WriteLine(result.Message);
+        }
+        
     }
 
     private static void CategortTest()
@@ -40,23 +50,30 @@ internal class Program
     private static void ProductTest()
     {
         ProductManager productManager = new ProductManager(new EfProductDal());
-
-        Console.WriteLine("*********fiyata göre ürünler**********");
-        foreach (var product in productManager.GetByUnitPrice(50, 100))
+        var result = productManager.GetProductDetails();
+        if (result.Success == true)
         {
-            Console.WriteLine(product.ProductName);
+            Console.WriteLine("*********fiyata göre ürünler**********");
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+
+            Console.WriteLine("*********kategoriye göre ürünler**********");
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+
+            Console.WriteLine("********Bütün ürünler*************");
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName);
+            }
         }
-
-        Console.WriteLine("*********kategoriye göre ürünler**********");
-        foreach (var product in productManager.GetAllByCategoryId(5))
+        else
         {
-            Console.WriteLine(product.ProductName);
-        }
-
-        Console.WriteLine("********Bütün ürünler*************");
-        foreach (var product in productManager.GetAll())
-        {
-            Console.WriteLine(product.ProductName);
+            Console.WriteLine(result.Message);
         }
     }
 }
