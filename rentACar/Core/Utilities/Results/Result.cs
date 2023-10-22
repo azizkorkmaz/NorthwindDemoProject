@@ -8,7 +8,7 @@ namespace Core.Utilities.Results
 {
     public class Result : IResult
     {
-        public Result(bool success, string message):this(success)//this kendisi demek this(success) tek parametreli ctor da çalıştır.
+        public Result(bool success, string message):this(success)//this kendisi demek this(success) tek parametreli ctor da çalıştır demek.
         {
             Message = message;
         }
