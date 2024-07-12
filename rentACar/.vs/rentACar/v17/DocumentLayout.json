@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:00:17.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:46:16.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessRules.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:09:24.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-15T13:50:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:49:29.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

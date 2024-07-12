@@ -24,7 +24,6 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
-D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.pdb
@@ -90,3 +89,5 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\Castle.Core.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.sourcelink.json
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.Up2Date

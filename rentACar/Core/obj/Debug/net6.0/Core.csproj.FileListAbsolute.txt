@@ -10,3 +10,4 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Core\obj\Debug\net6.0
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Core\obj\Debug\net6.0\refint\Core.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Core\obj\Debug\net6.0\Core.pdb
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\Core\obj\Debug\net6.0\Core.sourcelink.json
