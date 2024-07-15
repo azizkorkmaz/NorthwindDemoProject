@@ -13,10 +13,10 @@ internal class Program
 
         //CategortTest();
 
-        ProductDetailTest();
+        //ProductDetailTest();
 
     }
-
+    /*
     private static void ProductDetailTest()
     {
         ProductManager productManager = new ProductManager(new EfProductDal());
@@ -36,7 +36,7 @@ internal class Program
         }
         
     }
-
+    
     private static void CategortTest()
     {
         CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
@@ -75,5 +75,5 @@ internal class Program
         {
             Console.WriteLine(result.Message);
         }
-    }
+    }*/
 }

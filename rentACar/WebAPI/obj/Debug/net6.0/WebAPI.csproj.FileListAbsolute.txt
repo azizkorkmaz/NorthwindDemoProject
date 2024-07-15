@@ -91,3 +91,6 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\FluentValidation.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.sourcelink.json
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.Up2Date
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
