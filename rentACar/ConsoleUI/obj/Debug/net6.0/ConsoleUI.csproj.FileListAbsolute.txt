@@ -82,3 +82,7 @@ D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\n
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.Up2Date
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Toplam Depo\Çalışmalar\CSharp_Kamp\rentACar\rentACar\ConsoleUI\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll

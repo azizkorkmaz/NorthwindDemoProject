@@ -27,6 +27,7 @@ namespace WebAPI
                     builder => builder.WithOrigins("http://localhost:3000"));
             });
 
+
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -46,7 +47,7 @@ namespace WebAPI
 
             services.AddDependencyResolvers(new ICoreModule[]
             {
-                new CoreModule(),
+                new CoreModule()
             });
         }
 

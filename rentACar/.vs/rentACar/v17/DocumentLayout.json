@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64B714B-86AB-450A-BF43-10794040ADCE}|WebAPI\\WebAPI.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64B714B-86AB-450A-BF43-10794040ADCE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64B714B-86AB-450A-BF43-10794040ADCE}|WebAPI\\WebAPI.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64B714B-86AB-450A-BF43-10794040ADCE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\dependencyresolvers\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\business\\businessaspects\\outofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9DF47A-0384-44D6-BECA-053BDDACE07E}|Business\\Business.csproj|solutionrelative:business\\businessaspects\\outofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C14AEB-D940-4611-9072-1307C0033C6E}|Core\\Core.csproj|solutionrelative:core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E64B714B-86AB-450A-BF43-10794040ADCE}|WebAPI\\WebAPI.csproj|d:\\toplam depo\\\u00E7al\u0131\u015Fmalar\\csharp_kamp\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,149 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenOptions.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T11:23:30.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthManager.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\AuthManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\AuthManager.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\AuthManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\AuthManager.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEcAAAA2AAAA",
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:24:41.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AutofacBusinessModule.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:47:50.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICoreModule.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ICoreModule.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ICoreModule.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ICoreModule.cs",
-              "RelativeToolTip": "Core\\Utilities\\IoC\\ICoreModule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:45:57.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceTool.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ServiceTool.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ServiceTool.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ServiceTool.cs",
-              "RelativeToolTip": "Core\\Utilities\\IoC\\ServiceTool.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:43:56.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Startup.cs",
-              "RelativeToolTip": "WebAPI\\Startup.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:42:12.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:09:21.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAIwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T12:50:41.236Z",
+              "WhenOpened": "2024-07-27T22:07:03.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:25:27.47Z",
+              "WhenOpened": "2024-07-27T22:05:21.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Core\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "DocumentIndex": 1,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T09:56:45.66Z",
+              "WhenOpened": "2024-07-27T21:16:13.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:10:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecuredOperation.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\BusinessAspects\\Outofac\\SecuredOperation.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessAspects\\Outofac\\SecuredOperation.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\BusinessAspects\\Outofac\\SecuredOperation.cs",
+              "RelativeToolTip": "Business\\BusinessAspects\\Outofac\\SecuredOperation.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:49:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceTool.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:50:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:47:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:01:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CoreModule.cs",
               "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\DependencyResolvers\\CoreModule.cs",
               "RelativeDocumentMoniker": "Core\\DependencyResolvers\\CoreModule.cs",
               "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\Core\\DependencyResolvers\\CoreModule.cs",
               "RelativeToolTip": "Core\\DependencyResolvers\\CoreModule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T09:48:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Toplam Depo\\\u00C7al\u0131\u015Fmalar\\CSharp_Kamp\\rentACar\\rentACar\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:09:21.208Z",
               "EditorCaption": ""
             }
           ]

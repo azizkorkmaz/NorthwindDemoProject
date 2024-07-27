@@ -21,7 +21,7 @@ namespace Business.BusinessAspects.Outofac
         public SecuredOperation(string roles)
         {
             _roles = roles.Split(',');
-            _httpContextAccessor = ServiceTool.ServiceProvider.GetService<IHttpContextAccessor>();
+            _httpContextAccessor =  ServiceTool.ServiceProvider.GetService<IHttpContextAccessor>();
 
         }
 
